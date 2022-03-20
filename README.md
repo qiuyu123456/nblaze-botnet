@@ -7,8 +7,8 @@ NblazeBotnet是一款开源的群控框架，使用python打造的僵尸网络�
 #### 安裝教程
 
 1.  pip install mysql
-2.  xxxx
-3.  xxxx
+2.  pip install lxml
+3.  pip install pywin32api
 
 #### 使用說明
 
